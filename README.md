@@ -10,4 +10,4 @@ Entities in package **exam.one** is for first task. ERDiagram to Domain model co
 
 Solution of the task 2 in in **exam.two** package and below diagram is the generated diagram from the code.
 
-<img src="https://github.com/Davaabayar/EA-Midterm/blob/master/Exam12Result.PNG" alt="result2"/>
+<img src="https://github.com/Davaabayar/EA-Midterm/blob/master/Exam2Result.PNG" alt="result2"/>
