@@ -1,0 +1,13 @@
+###Summary:
+1.	Spring, AOP- AO theory, All programming
+2.	Basic mapping
+a.	Entity state
+b.	Id generation strategy
+3.	Inheritance
+4.	Queries – 4Q 
+5.	Persistence API – Code -> What is value stored in table,
+1.	If  it won’t save to database say it wont work & give a reason.
+6.	Optimization -  Code-> Answer
+a.	What is N+1
+b.	Lazy & Eager?
+c.	What is Cartesian problem?
