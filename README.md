@@ -3,6 +3,7 @@ EA midterm exam practice
 
 Exam practice solution for 2 kind of tasks. ERD to java code, java code to ERD.
 To run the code execute *ExamApp.java* and *Exam2App.java* respectively.
+If you would like to know how I come up with the solution. Check out the <a href="https://github.com/Davaabayar/EA-Midterm/wiki" target="blank">wiki</a> page :).
 
 Entities in package **exam.one** is for first task. ERDiagram to Domain model code. Result of the task 1 solution is as follows. Which is exactly like provided diagram, which means solution is correct. Please see the result from the below image.
 
