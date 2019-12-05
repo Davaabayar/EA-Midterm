@@ -12,6 +12,6 @@ Given code for task two is in **exam.two** package. Below diagram is the generat
 
 <img src="https://github.com/Davaabayar/EA-Midterm/blob/master/Exam2Result.PNG" alt="result2"/>
 
-If you would like to know how I come up with the solution. Check out the <a hre="https://github.com/Davaabayar/EA-Midterm/wiki" target="blank">wiki</a> page :).
+If you would like to know how I come up with the solution. Check out the <a href="https://github.com/Davaabayar/EA-Midterm/wiki" target="blank">wiki</a> page :).
 
 Good luck.
