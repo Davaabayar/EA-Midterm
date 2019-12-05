@@ -8,6 +8,10 @@ Entities in package **exam.one** is for first task. ERDiagram to Domain model co
 
 <img src="https://github.com/Davaabayar/EA-Midterm/blob/master/Exam1Result.PNG" alt="result1"/>
 
-Solution of the task 2 in in **exam.two** package and below diagram is the generated diagram from the code.
+Given code for task two is in **exam.two** package. Below diagram is the generated tables from the code hence the solution for the task.
 
 <img src="https://github.com/Davaabayar/EA-Midterm/blob/master/Exam2Result.PNG" alt="result2"/>
+
+If you would like to know how I come up with the solution. Check out the <a hre="https://github.com/Davaabayar/EA-Midterm/wiki" target="blank">wiki</a> page :).
+
+Good luck.
