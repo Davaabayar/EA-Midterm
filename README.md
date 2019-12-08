@@ -1,7 +1,7 @@
 # EA-Midterm
 EA midterm exam practice solution.
-1.ERD to Entity specification => exam.one
-2.Entity specification to ERD => exam.two</br>
+  1. ERD to Entity specification => exam.one
+  2. Entity specification to ERD => exam.two</br>
 
 To run the code, execute *ExamApp.java* and *Exam2App.java* respectively.
 If you would like to know how I came up with the solution, check out the <a href="https://github.com/Davaabayar/EA-Midterm/wiki" target="blank">wiki</a> page :).
